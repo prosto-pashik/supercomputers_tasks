@@ -1,0 +1,3 @@
+/Users/pavelperminov/CLionProjects/san9_parallel/cmake-build-debug/CMakeFiles/san9_parallel.dir
+/Users/pavelperminov/CLionProjects/san9_parallel/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pavelperminov/CLionProjects/san9_parallel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
